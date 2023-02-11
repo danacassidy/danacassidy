@@ -4,7 +4,8 @@
 
 ### Pronouns: she/her
 
-## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danacassidy&count_private=true)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danacassidy&layout=compact)](https://github.com/danacassidy/github-readme-stats)
+
 
 
 <!--
