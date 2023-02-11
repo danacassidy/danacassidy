@@ -3,9 +3,6 @@
 
 ### Pronouns: she/her
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danacassidy&count_private=true&layout=compact)](https://github.com/danacassidy/github-readme-stats)
-
-
 
 <!--
 **danacassidy/danacassidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
