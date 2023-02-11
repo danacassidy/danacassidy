@@ -5,7 +5,7 @@ I'm passionate about building web apps and tools that serve to provide create wa
 
 ### Pronouns: she/her
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danacassidy&theme=onedark)](https://github.com/danacassidy/github-profile-trophy)
+
 
 
 <!--
