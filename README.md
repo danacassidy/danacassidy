@@ -1,7 +1,11 @@
 # Hi! I'm Dana! 
-## I'm a full-stack Software Engineer on the Elections Engineering's Features team at The Washington Post. I'm passionate about building web apps and tools that serve to provide create ways to convey information.
+## I'm a full-stack Software Engineer on the Elections Engineering's Features team at The Washington Post. 
+
+I'm passionate about building web apps and tools that serve to provide create ways to convey information.
 
 ### Pronouns: she/her
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=danacassidy&theme=onedark)](https://github.com/danacassidy/github-profile-trophy)
 
 
 <!--
