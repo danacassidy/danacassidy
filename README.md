@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi! I'm Dana! 
+## I'm a full-stack Software Engineer on the Elections Engineering's Features team at The Washington Post. 
+## I'm passionate about building web apps and tools that serve to provide create ways to convey information.
+
+### Pronouns: she/her
+
+## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danacassidy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **danacassidy/danacassidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
