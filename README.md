@@ -1,10 +1,9 @@
 # Hi! I'm Dana! 
-## I'm a full-stack Software Engineer on the Elections Engineering's Features team at The Washington Post. 
-## I'm passionate about building web apps and tools that serve to provide create ways to convey information.
+## I'm a full-stack Software Engineer on the Elections Engineering's Features team at The Washington Post. I'm passionate about building web apps and tools that serve to provide create ways to convey information.
 
 ### Pronouns: she/her
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danacassidy&layout=compact)](https://github.com/danacassidy/github-readme-stats)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danacassidy&count_private=true&layout=compact)](https://github.com/danacassidy/github-readme-stats)
 
 
 
