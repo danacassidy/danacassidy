@@ -1,6 +1,6 @@
 # Hi! I'm Dana! 
 ## I'm a full-stack Software Engineer on the Live Elections Engineering team at The Washington Post. 
-### Pronouns: she/her
+philly, pa | she/her
 
 
 
