@@ -1,6 +1,6 @@
 # Hi! I'm Dana! 
-## I'm a full-stack Software Engineer on the Live Elections Engineering team at The Washington Post. 
-philly, pa | she/her
+### I'm a full-stack software engineer! 
+nyc | she/her | danacassidy1@gmail.com
 
 
 
